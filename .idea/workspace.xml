@@ -4,29 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51bde57b-2dc6-47ac-9d83-13017e552125" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/CustomerLoginController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/CustomerLoginDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/CustomerLoginRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/CustomerLoginRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/CustomerLoginService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/CustomerLoginServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DemoSpringBootLog4j2Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HnDBankException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/PractiseApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/SampleRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/resources/Log4j2.properities" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
+    <list default="true" id="51bde57b-2dc6-47ac-9d83-13017e552125" name="Changes" comment="springbootprojects">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/DemoSpringBootLog4j2Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/DemoSpringBootLog4j2Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,6 +105,14 @@
       <option name="presentableId" value="Default" />
       <updated>1666152713905</updated>
     </task>
+    <task id="LOCAL-00001" summary="springbootprojects">
+      <created>1666164090405</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666164090405</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -136,6 +125,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="springbootprojects" />
+    <option name="LAST_COMMIT_MESSAGE" value="springbootprojects" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

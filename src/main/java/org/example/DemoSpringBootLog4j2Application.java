@@ -25,7 +25,7 @@ public class DemoSpringBootLog4j2Application implements CommandLineRunner {
         try{
             CustomerLoginDTO customerLogin = new CustomerLoginDTO();
             customerLogin.setLoginName("vishnu");
-            customerLogin.setPassword("vishnu378");
+            customerLogin.setPassword("vishnu3789");
             customerLoginController.authenticateCustomer(customerLogin);
             System.out.println("customerLogin = " + customerLogin);
             LOGGER.info(environment.getProperty("SUCCESS"));
